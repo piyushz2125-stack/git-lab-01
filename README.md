@@ -16,3 +16,5 @@ this project is a git practice lab.
 =======
 # Git Lab Project (Feature Branch Version)
 >>>>>>> 716551a (change title from feature branch)
+## project description is missing so it must be add
+A hands-on lab repository for practicing Git and GitHub.
